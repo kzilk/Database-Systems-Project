@@ -1,0 +1,4 @@
+Office Managers,
+Employee ID,Integer
+Base ID,Integer
+Department,varChar[20]

@@ -1,0 +1,6 @@
+Office/Warehouse Base,
+Active Projects,Integer
+Base ID,Integer
+Metal Sheet Inventory,Float
+Cardboard Inventory,Float
+Blanket Inventory,Float

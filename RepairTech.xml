@@ -1,0 +1,4 @@
+Repair Technician,
+Employee ID,Integer
+Base ID,Integer
+Active Assignment Status,Boolean
